@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/banhangthucpham/ecommerce-html-template/css"
+		},
+		{
+			"path": "../../../Downloads/banhangthucpham/ecommerce-html-template/img"
+		},
+		{
+			"path": "../../../Downloads/banhangthucpham/ecommerce-html-template/js"
+		},
+		{
+			"path": "../../../Downloads/banhangthucpham/ecommerce-html-template/lib"
+		}
+	],
+	"settings": {}
+}
